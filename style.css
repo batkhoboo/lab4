@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+body {
+	font-family: 'Josefin Sans', sans-serif;
+    background: #f1f1f1;
+}
+ul {
+	margin: 0;
+	padding: 0;
+}
+.left {
+	float:left;
+}
+.right {
+	float:right;
+}
+.clr {
+	clear:both;
+}
+.container {
+    max-width: 900px;
+}
+.section {
+    margin: 100px 0;
+    height: auto;
+    box-shadow: 0px 0px 1px 1px #ccc;
+    background: #fff;
+    
+}
+.pad {
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.pad2 {
+    padding-bottom: 20px;
+}
+.side {
+    padding: 50px 0px;
+    background: #d0cecf;
+    text-align: left;
+}
+.side img {
+    width: 100%;
+    height: auto;
+    padding: 25px 0;
+}
+.side h2 {
+    margin: auto;
+    font-size: 2.5em;
+    font-weight: 900;
+    color: #222;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+.side h2 span {
+    color: #FFA500;
+}
+.side h5 {
+    padding-top: 10px;
+    color: #222;
+    font-size: 22px;
+    font-weight: 800;
+    border-bottom: 2px solid #808080;
+}
+.side .contact span {
+    font-size: 15px;
+    font-weight: 700;
+    color: #222;
+}
+.side p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #222;
+}
+.side a {
+    font-size: 15px;
+    font-weight: 400;
+    color: #222;
+}
+.side .language p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #222;
+    padding: 0;
+    margin: 0;
+}
+.main {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 10px;
+}
+.main h5 {
+    padding-top: 10px;
+    color: #222;
+    font-size: 22px;
+    font-weight: 800;
+    border-bottom: 2px solid #808080;
+}
+.main p {
+    font-size: 15px;
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+    color: #222;
+}
+.main span {
+    font-size: 15px;
+    font-weight: 700;
+    color: #222;
+    margin-right: 3px;
+}
+.main .experience li {
+    margin-left: 2.8em;
+}
+.main .educate span {
+    margin-left: 3px;
+}
+.main .certifica span {
+    margin-left: 3px;
+}
+.main .hobbies li {
+    margin-left: 2.5em;
+}
+.main .hobbies li p {
+    padding: 0;
+    margin: 0;
+}
